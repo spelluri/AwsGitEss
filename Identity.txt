@@ -1,0 +1,1 @@
+Hi i am Ubuntu VM created via Hyper-V . My name is HP 1040g3.
