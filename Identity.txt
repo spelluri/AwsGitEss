@@ -3,3 +3,5 @@ Hi i am Ubuntu VM created via Hyper-V . My name is HP 1040g3.
 =======
 Hi i am an aws instance . My name is UbuntuDev.
 >>>>>>> 7fe20118403a8848e99ecde18faec3c3e63d0ce5
+
+Hi i am aws instance . My name is UbuntuTWS .
