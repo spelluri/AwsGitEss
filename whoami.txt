@@ -6,3 +6,4 @@ Hello branch dev good to see your progress.
 >>>>>>> a3c8bc8060c012fa434b01cfbad1de0d3fdb7cc2
 I can see a merge conflict that was resolved shraddha .
 Yes learning to peacefully push changes into Github.Goodday .
+Hi my name is Raya . I am a new developer from Github.
