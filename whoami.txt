@@ -7,4 +7,8 @@ Hello branch dev good to see your progress.
 I can see a merge conflict that was resolved shraddha .
 Yes learning to peacefully push changes into Github.Goodday .
 Hi my name is Raya . I am a new developer from Github.
+<<<<<<< HEAD
 Raya my name is shraddha . I work in devops team for github.
+=======
+Hi my name Edward. I am a new joinee. Please to meet you all .
+>>>>>>> refs/remotes/origin/dev
