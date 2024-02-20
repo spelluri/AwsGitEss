@@ -1,2 +1,6 @@
 Hi i am dev branch .
+<<<<<<< HEAD
 My name is shraddha . 
+=======
+Hello branch dev good to see your progress.
+>>>>>>> a3c8bc8060c012fa434b01cfbad1de0d3fdb7cc2
