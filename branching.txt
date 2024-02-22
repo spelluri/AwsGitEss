@@ -11,10 +11,7 @@
 11th commit
 12th commit
 13th commit
-<<<<<<< HEAD
 14th commit 
-16th commit 
-=======
-14th commit
-15th commit  
->>>>>>> bf9799354ce378e4c98b31d7363157fe74e5d29f
+15th commit 
+16th commit  
+
